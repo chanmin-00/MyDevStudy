@@ -52,7 +52,6 @@ Source Build는 소스 코드를 기반으로 Docker 이미지를 생성하고, 
 
 다음으로 빌드가 실행될 환경 정보를 지정한다. 빌드 환경에는 실행 OS, 런타임 버전, 추가 패키지 등을 설정할 수 있으며, 이번에는 Docker 이미지를 빌드할 것이므로 ‘도커 이미지 빌드’ 옵션을 활성화한다.
 
-<img width="515" height="314" alt="image" src="https://github.com/user-attachments/assets/491863c7-744c-4715-a41a-a479fedaeaa0" />
 
 ### 빌드 명령어 설정
 
